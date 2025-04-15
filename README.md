@@ -1,8 +1,5 @@
 # lumi-learn
 
-![Privacy Friendly](https://img.shields.io/badge/Privacy-Friendly-blue?style=flat-square&logo=lock)
-![Dark Mode](https://img.shields.io/badge/UI-Dark&nbsp;%2F&nbsp;Light-222222?style=flat-square&logo=flutter)
-
 # 📚 Lumi Learn – Privacy Policy  
 ![Privacy Friendly](https://img.shields.io/badge/Privacy-Friendly-blue?style=flat-square&logo=lock)
 ![Dark Mode](https://img.shields.io/badge/UI-Dark&nbsp;%2F&nbsp;Light-222222?style=flat-square&logo=flutter)
