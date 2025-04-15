@@ -67,7 +67,3 @@ If you have any questions, concerns, or requests related to your privacy, please
 ---
 
 ### 🛡️ Your trust is our top priority. Lumi Learn is built to educate — not to exploit.
-
----
-
-Want to make a hosted version (for a web link in App Store Connect), too? I got you.
