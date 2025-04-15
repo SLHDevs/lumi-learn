@@ -1,8 +1,5 @@
-# lumi-learn
-
-# 📚 Lumi Learn – Privacy Policy  
+# 📚 Lumi – Privacy Policy  
 ![Privacy Friendly](https://img.shields.io/badge/Privacy-Friendly-blue?style=flat-square&logo=lock)
-![Dark Mode](https://img.shields.io/badge/UI-Dark&nbsp;%2F&nbsp;Light-222222?style=flat-square&logo=flutter)
 
 At **Lumi Learn**, we take your privacy seriously. This policy explains what we collect, how we use your information, and how we protect your data. We collect the minimum information necessary to deliver the best personalized learning experience possible — nothing more.
 
